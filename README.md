@@ -19,4 +19,4 @@ Si no necessites utilitzar XML-RPC al teu lloc de WordPress i tens preocupacions
 
 # L'script
 
-Aquest script serveix per a fer atacs de força bruts a l'arxiu xmlrpc.php
+Aquest script serveix per a fer atacs de força bruta a l'arxiu xmlrpc.php
